@@ -1,11 +1,12 @@
+import Layout from "../../Components/layout"
 function MyOrde() {
     
 
         return (
     
-        <div className="bg-teal-400	">
+        <Layout>
             Myorde
-        </div>
+        </Layout>
     
         )
     }
