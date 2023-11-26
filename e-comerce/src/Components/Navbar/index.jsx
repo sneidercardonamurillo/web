@@ -82,7 +82,7 @@ const Navbar =()=>{
                     </NavLink>
                 </li>
                 <li>
-                💰 0 {context.count  }
+                🛒 {context.count  }
                 </li>
             </ul>
         </nav>
